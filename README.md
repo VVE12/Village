@@ -1,2 +1,2 @@
 # Village
-A small scene that contains medieval village.
+A small scene - medieval village.
